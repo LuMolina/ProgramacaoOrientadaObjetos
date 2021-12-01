@@ -1,0 +1,15 @@
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ProgramacaoOrientadaObjetos\obj\Debug\net6.0\ProgramacaoOrientadaObjetos.csproj.AssemblyReference.cache
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ProgramacaoOrientadaObjetos\obj\Debug\net6.0\ProgramacaoOrientadaObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ProgramacaoOrientadaObjetos\obj\Debug\net6.0\ProgramacaoOrientadaObjetos.AssemblyInfoInputs.cache
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ProgramacaoOrientadaObjetos\obj\Debug\net6.0\ProgramacaoOrientadaObjetos.AssemblyInfo.cs
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ProgramacaoOrientadaObjetos\obj\Debug\net6.0\ProgramacaoOrientadaObjetos.csproj.CoreCompileInputs.cache
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ProgramacaoOrientadaObjetos\bin\Debug\net6.0\ProgramacaoOrientadaObjetos.exe
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ProgramacaoOrientadaObjetos\bin\Debug\net6.0\ProgramacaoOrientadaObjetos.deps.json
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ProgramacaoOrientadaObjetos\bin\Debug\net6.0\ProgramacaoOrientadaObjetos.runtimeconfig.json
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ProgramacaoOrientadaObjetos\bin\Debug\net6.0\ProgramacaoOrientadaObjetos.dll
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ProgramacaoOrientadaObjetos\bin\Debug\net6.0\ref\ProgramacaoOrientadaObjetos.dll
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ProgramacaoOrientadaObjetos\bin\Debug\net6.0\ProgramacaoOrientadaObjetos.pdb
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ProgramacaoOrientadaObjetos\obj\Debug\net6.0\ProgramacaoOrientadaObjetos.dll
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ProgramacaoOrientadaObjetos\obj\Debug\net6.0\ref\ProgramacaoOrientadaObjetos.dll
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ProgramacaoOrientadaObjetos\obj\Debug\net6.0\ProgramacaoOrientadaObjetos.pdb
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ProgramacaoOrientadaObjetos\obj\Debug\net6.0\ProgramacaoOrientadaObjetos.genruntimeconfig.cache
